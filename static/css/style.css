@@ -8,9 +8,14 @@
     line-height: 24px;
     margin: 5px 5px;
     padding: 0 0.5em;
+    float: right;
 }
 
 .task_header {
     margin-top: 5px;
     margin-left: 50px;
+}
+
+nav .brand-logo {
+    font-size: 2rem;
 }
